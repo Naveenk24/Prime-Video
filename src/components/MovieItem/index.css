@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+.movie-video-card {
+  margin: 0 8px 0 8px;
+}
+
+.movie-video-image {
+  width: 100%;
+}
+
+.modal-container {
+  background-color: #ffffff;
+  height: 82vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 30px 50px 30px;
+  border-radius: 10px;
+}
+
+.video-player {
+  width: 50px;
+}
+
+.close-button {
+  background-color: transparent;
+  border: none;
+  align-self: flex-end;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.close-icon {
+  font-size: 25px;
+}

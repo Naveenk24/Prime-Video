@@ -1,0 +1,11 @@
+.action-movie-heading,
+.comedy-movie-heading {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.action-movie-slider-container,
+.comedy-movie-slider-container {
+  width: 100%;
+  padding: 0 20px 0 20px;
+}
